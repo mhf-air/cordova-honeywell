@@ -1,0 +1,9 @@
+{
+  "name": "cordova-honeywell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://mhf-air@github.com/mhf-air/cordova-honeywell.git",
+  "author": "mhf",
+  "license": "MIT",
+  "private": true
+}
